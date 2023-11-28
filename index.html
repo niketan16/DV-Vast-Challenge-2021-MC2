@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html lang='en'>
+
+<head>
+    <title>Project- CSE 578 - Spring 2023</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" />
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3-sankey@0.12.3/dist/d3-sankey.min.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/circular-bar-plot.js"></script>
+    <script src="js/map.js"></script>
+    <script src="js/innovringchart.js"></script>
+    <link rel="shortcut icon" href="#">
+    <script src="js/box-plot.js"></script>
+    <script src="js/sanky.js"></script>
+    <script src="js/network_plot.js"></script>
+    <link rel="stylesheet" href="style/main_style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Ysabeau:ital,wght@1,300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="myContainer">
+        <h2 id="project_title" class="text-center">Project CSE 578 Spring 2023</h2>
+        <h4 class="text-center">VAST Challenge 2021 Mini-Challenge 2</h4>
+        <h6 class="text-center">Several employees of GASTech, a natural gas production company, went missing around the same time as the company’s Initial Public Offering celebration. The purpose of this project is to analyze the movement and tracking data of the employees and identify anomalous or suspicious behaviors of the employees.</h6>
+        <hr>
+        <h5 id="project_team_names" class="text-center">Devam Sheth &ensp; Manan Gandhi &ensp; Hitansh Shah &ensp; Niketan Chandarana &ensp; Nihar Thakkar &ensp; Tirth Hihoriya</h5>
+        <hr>
+
+        <div class="row">
+
+            <!-- shanky div -->
+            <div class="col-md-2" id="left-shanky-div">
+                <svg id="shankey_svg" class="border rounded-4 shadow"></svg>
+
+                <!-- table -->
+                
+                <span id="more_info"> One-to-One Mapping </span>
+                <div class="table_div">
+                    <table class="table table-bordered table-hover table-condensed border rounded-4 shadow">
+                        <thead>
+                            <tr>
+                                <th title="Field #1">cc_num</th>
+                                <th title="Field #2">loyalty_num</th>
+                                <th title="Field #3">frequency</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>6816</td>
+                                <td>L8148</td>
+                                <td>20</td>
+                            </tr>
+                            <tr>
+                                <td>9617</td>
+                                <td>L5553</td>
+                                <td>26</td>
+                            </tr>
+                            <tr>
+                                <td>7384</td>
+                                <td>L3800</td>
+                                <td>26</td>
+                            </tr>
+                            <tr>
+                                <td>8129</td>
+                                <td>L8328</td>
+                                <td>21</td>
+                            </tr>
+                            <tr>
+                                <td>9551</td>
+                                <td>L5777</td>
+                                <td>12</td>
+                            </tr>
+                            <tr>
+                                <td>4434</td>
+                                <td>L2169</td>
+                                <td>26</td>
+                            </tr>
+                            <tr>
+                                <td>6899</td>
+                                <td>L6267</td>
+                                <td>23</td>
+                            </tr>
+                            <tr>
+                                <td>1877</td>
+                                <td>L3014</td>
+                                <td>18</td>
+                            </tr>
+                            <tr>
+                                <td>9241</td>
+                                <td>L3288</td>
+                                <td>13</td>
+                            </tr>
+                            <tr>
+                                <td>2463</td>
+                                <td>L6886</td>
+                                <td>23</td>
+                            </tr>
+                            <tr>
+                                <td>1310</td>
+                                <td>L8012</td>
+                                <td>21</td>
+                            </tr>
+                            <tr>
+                                <td>9405</td>
+                                <td>L3259</td>
+                                <td>21</td>
+                            </tr>
+                            <tr>
+                                <td>7117</td>
+                                <td>L6417</td>
+                                <td>28</td>
+                            </tr>
+                            <tr>
+                                <td>3506</td>
+                                <td>L7761</td>
+                                <td>6</td>
+                            </tr>
+                            <tr>
+                                <td>8156</td>
+                                <td>L5224</td>
+                                <td>22</td>
+                            </tr>
+                            <tr>
+                                <td>2276</td>
+                                <td>L3317</td>
+                                <td>10</td>
+                            </tr>
+                            <tr>
+                                <td>9152</td>
+                                <td>L5485</td>
+                                <td>2</td>
+                            </tr>
+                            <tr>
+                                <td>3547</td>
+                                <td>L9362</td>
+                                <td>14</td>
+                            </tr>
+                            <tr>
+                                <td>5010</td>
+                                <td>L2459</td>
+                                <td>5</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+            </div>
+
+
+            <div class="col-md-2" id="right-scroll-div">
+                <div class="col">
+                    <!-- circular  and  ring both -->
+                    <div class="row-m-4" id="circular_and_ring_both">
+                        <div class="row">
+
+                            <!-- circular-bar-plot div -->
+                            <div class="col-m-2" id="left-circular-div">
+                                <svg id="circular_bar_svg" class="border rounded-4 shadow"></svg>
+                            </div>
+
+                            <!-- ring chart -->
+                            <div class="col-md-2 border rounded-4 shadow" id="right-ring-div">
+                                <div id="panel">
+                                    <label id="location_label" style="position:relative; top:-9px">Location:</label>
+                                    <div class="dropdowns" id="ring-drop"
+                                        style="text-align: center;position:relative; top:-12px">
+                                        <select class="form-select" id="dropdownloc">
+                                            <option value=1> All</option>
+                                        </select>
+                                    </div>
+
+                                    <label id="cc_label"
+                                        style="float: left; margin-right: 0px; text-align: center;position:relative; top:-9px">Credit
+                                        Card #:
+                                    </label>
+                                    <div class="dropdowns"
+                                        style="width: 150px; float: left; margin-left: 10px;position:relative; top:-12px">
+
+                                        <select class="form-select" id="dropdowncc">
+                                            <option value=1> All</option>
+                                        </select>
+                                    </div>
+                                </div>
+
+                                <svg id="ring_svg" style="position:relative; top:-12px"></svg> <!-- ring svg -->
+                            </div>
+                        </div>
+
+
+                        <!-- map chart -->
+                        <div class="row-m-4 border rounded-4 shadow" id="map_div">
+
+                            <svg id="map_svg"></svg>
+
+                            <div class="col">
+                                <div class="row-m-3" id="dd">
+                                    &nbsp;&nbsp;&nbsp; Date:
+                                    <input class="date" type="date" id="date" min="2014-01-06" max="2014-01-19"
+                                        value="2014-01-06" onchange="dateOnChange(this)">
+                                </div>
+                                <div class="row-m-3">
+                                    <div id="map_car_div">
+                                        <svg id="map_cars" class="border rounded-4 shadow"></svg>
+                                    </div>
+                                </div>
+                                <div class="row-m-3">
+                                    <button type="button" class="btn btn-info" id="play">Play</button>
+                                </div>
+                            </div>
+
+
+                        </div>
+
+                        <!-- box-plot -->
+                        <div class="row-m-4 border rounded-4 shadow" id="box_plot_div">
+                            <svg id="box_plot_svg"></svg>
+                        </div>
+
+                        <!-- network chart -->
+                        <div class="row-m-4 border rounded-4 shadow" id="network_div">
+                            <svg id="network_svg"></svg>
+                        </div>
+
+                    </div>
+
+
+                </div>
+
+
+
+            </div>
+
+
+
+        </div>
+</body>
+
+</html>

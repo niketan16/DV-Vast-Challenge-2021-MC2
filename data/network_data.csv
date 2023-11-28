@@ -1,0 +1,612 @@
+car_id,location
+35,Jack's Magical Beans
+35,GAStect
+35,Frydos Autosupply n' More
+35,Guy's Gyros
+35,Gelatogalore
+35,Octavio's Office Supplies
+35,Hippokampos
+35,Abila Zacharo
+35,Cup o'Joe
+35,carly's coffee
+35,kronos capitol
+35,Desafio Golf Course
+35,General Grocer
+35,U-Pump
+35,Kalami Kafenion
+35,Hallowed Grounds
+4,Brewed Awakenings
+4,Jack's Magical Beans
+4,GAStect
+4,carly's coffee
+4,Abila Zacharo
+4,Hippokampos
+4,Cup o'Joe
+4,Ouzeri Elian
+4,Kronos Mart
+4,Katerina's Cafe
+4,Frydos Autosupply n' More
+4,Hallowed Grounds
+4,Desafio Golf Course
+4,General Grocer
+4,Albert's Fine Clothing
+4,Guy's Gyros
+4,Roberts and Sons
+19,Bean There Done That
+19,Jack's Magical Beans
+19,Cup o'Joe
+19,GAStect
+19,Ouzeri Elian
+19,Hippokampos
+19,Albert's Fine Clothing
+19,Katerina's Cafe
+19,carly's coffee
+19,Kalami Kafenion
+19,Octavio's Office Supplies
+19,Chostus Hotel
+19,Abila Zacharo
+19,General Grocer
+19,Gelatogalore
+10,Brewed Awakenings
+10,Jack's Magical Beans
+10,Cup o'Joe
+10,GAStect
+10,Katerina's Cafe
+10,Hippokampos
+10,carly's coffee
+10,Gelatogalore
+10,Ouzeri Elian
+10,Albert's Fine Clothing
+10,Desafio Golf Course
+10,Octavio's Office Supplies
+10,Kalami Kafenion
+10,General Grocer
+10,Shoppers' Delight
+10,Abila Zacharo
+10,Kronos Mart
+7,Brewed Awakenings
+7,Jack's Magical Beans
+7,Cup o'Joe
+7,GAStect
+7,Ouzeri Elian
+7,Guy's Gyros
+7,Hippokampos
+7,Chostus Hotel
+7,Gelatogalore
+7,Abila Zacharo
+7,Katerina's Cafe
+7,Hallowed Grounds
+7,Albert's Fine Clothing
+7,Kalami Kafenion
+7,Frydos Autosupply n' More
+7,Roberts and Sons
+11,Bean There Done That
+11,Jack's Magical Beans
+11,Cup o'Joe
+11,GAStect
+11,Octavio's Office Supplies
+11,Kalami Kafenion
+11,Hippokampos
+11,Ouzeri Elian
+11,Hallowed Grounds
+11,Frydos Autosupply n' More
+11,Guy's Gyros
+11,Katerina's Cafe
+11,carly's coffee
+11,Abila Zacharo
+11,Albert's Fine Clothing
+32,U-Pump
+32,Jack's Magical Beans
+32,Cup o'Joe
+32,GAStect
+32,Hippokampos
+32,Guy's Gyros
+32,Frydos Autosupply n' More
+32,Ouzeri Elian
+32,Katerina's Cafe
+32,Brew've Been Served
+32,Kronos Mart
+32,Albert's Fine Clothing
+32,Gelatogalore
+32,Octavio's Office Supplies
+32,carly's coffee
+32,Kalami Kafenion
+32,Abila Zacharo
+32,Shoppers' Delight
+32,Desafio Golf Course
+34,Guy's Gyros
+34,Brew've Been Served
+34,GAStect
+34,Hippokampos
+34,Frydos Autosupply n' More
+34,Octavio's Office Supplies
+34,Kalami Kafenion
+34,General Grocer
+34,carly's coffee
+34,Gelatogalore
+34,Chostus Hotel
+34,Ahaggo Museum
+34,Ouzeri Elian
+34,Katerina's Cafe
+34,Abila Zacharo
+34,kronos capitol
+17,Katerina's Cafe
+17,Brew've Been Served
+17,GAStect
+17,Guy's Gyros
+17,Coffee Cameleon
+17,carly's coffee
+17,Octavio's Office Supplies
+17,Kalami Kafenion
+17,Frydos Autosupply n' More
+17,Shoppers' Delight
+17,Hippokampos
+17,Gelatogalore
+17,Abila Zacharo
+17,Ahaggo Museum
+17,Chostus Hotel
+17,Ouzeri Elian
+12,Hallowed Grounds
+12,Carlyle Chemical Inc.
+12,Abila Hospital
+12,Cup o'Joe
+12,GAStect
+12,Octavio's Office Supplies
+12,Abila Zacharo
+12,Guy's Gyros
+12,carly's coffee
+12,Kalami Kafenion
+12,Katerina's Cafe
+12,General Grocer
+12,Ouzeri Elian
+12,Chostus Hotel
+12,Brew've Been Served
+12,Kronos Mart
+12,Coffee Cameleon
+18,Hallowed Grounds
+18,Carlyle Chemical Inc.
+18,Abila Hospital
+18,GAStect
+18,Katerina's Cafe
+18,Guy's Gyros
+18,Frydos Autosupply n' More
+18,Cup o'Joe
+18,Abila Zacharo
+18,Roberts and Sons
+18,carly's coffee
+18,Ouzeri Elian
+18,Chostus Hotel
+18,Ahaggo Museum
+18,Gelatogalore
+18,Shoppers' Delight
+18,Nationwide Refinery
+18,Bean There Done That
+18,Jack's Magical Beans
+18,Hippokampos
+18,General Grocer
+20,Guy's Gyros
+20,Frydos Autosupply n' More
+20,Brew've Been Served
+20,GAStect
+20,Ouzeri Elian
+20,Kalami Kafenion
+20,Kronos Mart
+20,Chostus Hotel
+20,carly's coffee
+20,Abila Zacharo
+20,Roberts and Sons
+20,Octavio's Office Supplies
+20,Hippokampos
+20,Coffee Cameleon
+20,Cup o'Joe
+16,Guy's Gyros
+16,Frydos Autosupply n' More
+16,Brew've Been Served
+16,GAStect
+16,Roberts and Sons
+16,Abila Zacharo
+16,Octavio's Office Supplies
+16,carly's coffee
+16,Coffee Cameleon
+16,Shoppers' Delight
+16,Brewed Awakenings
+16,Jack's Magical Beans
+16,Cup o'Joe
+16,Kalami Kafenion
+16,Katerina's Cafe
+16,Ahaggo Museum
+16,Chostus Hotel
+16,Hippokampos
+6,Coffee Cameleon
+6,GAStect
+6,carly's coffee
+6,Octavio's Office Supplies
+6,Gelatogalore
+6,Katerina's Cafe
+6,Cup o'Joe
+6,Hippokampos
+6,Guy's Gyros
+6,Frydos Autosupply n' More
+6,Hallowed Grounds
+6,Abila Zacharo
+6,Ouzeri Elian
+6,Roberts and Sons
+3,Bean There Done That
+3,Jack's Magical Beans
+3,Cup o'Joe
+3,GAStect
+3,Guy's Gyros
+3,Brew've Been Served
+3,Hippokampos
+3,Albert's Fine Clothing
+3,Frydos Autosupply n' More
+3,Roberts and Sons
+3,Abila Zacharo
+3,General Grocer
+3,Kalami Kafenion
+3,carly's coffee
+3,Gelatogalore
+3,Frank's Fuel
+26,Hallowed Grounds
+26,Carlyle Chemical Inc.
+26,Abila Hospital
+26,GAStect
+26,Guy's Gyros
+26,Brew've Been Served
+26,Frydos Autosupply n' More
+26,Gelatogalore
+26,Katerina's Cafe
+26,Cup o'Joe
+26,Hippokampos
+26,Jack's Magical Beans
+26,Abila Zacharo
+26,carly's coffee
+26,Roberts and Sons
+26,Ouzeri Elian
+26,Shoppers' Delight
+26,Octavio's Office Supplies
+1,Hallowed Grounds
+1,Carlyle Chemical Inc.
+1,Abila Hospital
+1,Cup o'Joe
+1,GAStect
+1,Hippokampos
+1,Albert's Fine Clothing
+1,carly's coffee
+1,Gelatogalore
+1,Ouzeri Elian
+1,Abila Zacharo
+1,Octavio's Office Supplies
+1,Shoppers' Delight
+1,Kalami Kafenion
+1,Guy's Gyros
+1,Kronos Mart
+29,Coffee Cameleon
+29,GAStect
+29,Ouzeri Elian
+29,Katerina's Cafe
+29,Cup o'Joe
+29,Gelatogalore
+29,carly's coffee
+29,Kalami Kafenion
+29,Octavio's Office Supplies
+29,Guy's Gyros
+29,Frydos Autosupply n' More
+29,Albert's Fine Clothing
+29,Hippokampos
+29,U-Pump
+29,Shoppers' Delight
+29,Abila Zacharo
+29,General Grocer
+21,Guy's Gyros
+21,Frydos Autosupply n' More
+21,Brew've Been Served
+21,GAStect
+21,carly's coffee
+21,General Grocer
+21,Abila Zacharo
+21,Roberts and Sons
+21,Katerina's Cafe
+21,Gelatogalore
+21,Octavio's Office Supplies
+21,Hallowed Grounds
+21,Carlyle Chemical Inc.
+21,Cup o'Joe
+21,Ouzeri Elian
+21,Nationwide Refinery
+21,Chostus Hotel
+21,Ahaggo Museum
+21,Coffee Cameleon
+21,Abila Hospital
+21,Hippokampos
+21,Kalami Kafenion
+14,Hallowed Grounds
+14,Carlyle Chemical Inc.
+14,Abila Hospital
+14,GAStect
+14,Katerina's Cafe
+14,carly's coffee
+14,Gelatogalore
+14,Cup o'Joe
+14,Frydos Autosupply n' More
+14,Guy's Gyros
+14,Abila Zacharo
+14,Roberts and Sons
+14,General Grocer
+14,Octavio's Office Supplies
+14,Nationwide Refinery
+14,Chostus Hotel
+14,Hippokampos
+14,Ahaggo Museum
+14,Bean There Done That
+14,Kalami Kafenion
+33,Katerina's Cafe
+33,Brew've Been Served
+33,GAStect
+33,Ouzeri Elian
+33,carly's coffee
+33,Abila Zacharo
+33,Roberts and Sons
+33,Guy's Gyros
+33,Chostus Hotel
+33,Coffee Cameleon
+33,Frydos Autosupply n' More
+33,Hippokampos
+33,Ahaggo Museum
+33,Octavio's Office Supplies
+13,Brew've Been Served
+13,GAStect
+13,Octavio's Office Supplies
+13,Gelatogalore
+13,Guy's Gyros
+13,Abila Zacharo
+13,General Grocer
+13,Frydos Autosupply n' More
+13,carly's coffee
+13,Coffee Cameleon
+13,Shoppers' Delight
+13,Kalami Kafenion
+13,Katerina's Cafe
+13,Ouzeri Elian
+13,Nationwide Refinery
+13,Chostus Hotel
+13,Albert's Fine Clothing
+2,Bean There Done That
+2,Jack's Magical Beans
+2,Cup o'Joe
+2,GAStect
+2,Brew've Been Served
+2,Guy's Gyros
+2,Hippokampos
+2,Abila Zacharo
+2,Octavio's Office Supplies
+2,carly's coffee
+2,General Grocer
+2,Roberts and Sons
+2,Gelatogalore
+2,Frydos Autosupply n' More
+2,Kronos Mart
+2,Ouzeri Elian
+27,Hallowed Grounds
+27,Carlyle Chemical Inc.
+27,Abila Hospital
+27,Cup o'Joe
+27,GAStect
+27,carly's coffee
+27,Gelatogalore
+27,Katerina's Cafe
+27,Hippokampos
+27,Octavio's Office Supplies
+27,Kalami Kafenion
+27,General Grocer
+27,Abila Zacharo
+8,Hallowed Grounds
+8,Carlyle Chemical Inc.
+8,Abila Hospital
+8,Cup o'Joe
+8,GAStect
+8,Gelatogalore
+8,Octavio's Office Supplies
+8,Katerina's Cafe
+8,Guy's Gyros
+8,Ouzeri Elian
+8,Frydos Autosupply n' More
+8,Hippokampos
+8,carly's coffee
+8,Roberts and Sons
+8,Abila Zacharo
+8,Kalami Kafenion
+101,Abila Airport
+101,Kronos Pipe and Irrigation
+101,Maximum Iron and Steel
+101,Carlyle Chemical Inc.
+101,Abila Hospital
+101,Ouzeri Elian
+101,GAStect
+101,Stewart and Sons Fabrication
+101,Nationwide Refinery
+101,Shoppers' Delight
+101,Katerina's Cafe
+101,Frydos Autosupply n' More
+101,General Grocer
+24,Frydos Autosupply n' More
+24,Katerina's Cafe
+24,Brew've Been Served
+24,GAStect
+24,carly's coffee
+24,Kalami Kafenion
+24,Coffee Cameleon
+24,Albert's Fine Clothing
+24,Chostus Hotel
+24,Hallowed Grounds
+24,Guy's Gyros
+24,Ahaggo Museum
+24,Hippokampos
+24,Roberts and Sons
+24,Abila Zacharo
+24,Kronos Mart
+24,General Grocer
+24,U-Pump
+24,Brewed Awakenings
+24,Jack's Magical Beans
+24,Cup o'Joe
+24,Gelatogalore
+24,Octavio's Office Supplies
+23,Katerina's Cafe
+23,Brew've Been Served
+23,GAStect
+23,carly's coffee
+23,General Grocer
+23,Kalami Kafenion
+23,U-Pump
+23,Hallowed Grounds
+23,Guy's Gyros
+23,Octavio's Office Supplies
+23,Gelatogalore
+23,Abila Zacharo
+23,Frydos Autosupply n' More
+23,Ouzeri Elian
+23,Albert's Fine Clothing
+23,Kronos Mart
+25,Coffee Cameleon
+25,GAStect
+25,Katerina's Cafe
+25,Frydos Autosupply n' More
+25,Cup o'Joe
+25,Ouzeri Elian
+25,Hippokampos
+25,Hallowed Grounds
+25,Albert's Fine Clothing
+25,Brew've Been Served
+25,Guy's Gyros
+25,carly's coffee
+25,Gelatogalore
+25,Octavio's Office Supplies
+25,Abila Zacharo
+25,kronos capitol
+25,Shoppers' Delight
+30,Katerina's Cafe
+30,Brew've Been Served
+30,GAStect
+30,Guy's Gyros
+30,Ouzeri Elian
+30,Frydos Autosupply n' More
+30,Hippokampos
+30,Abila Zacharo
+30,Chostus Hotel
+30,Ahaggo Museum
+30,Shoppers' Delight
+30,carly's coffee
+30,Kalami Kafenion
+30,General Grocer
+30,Roberts and Sons
+30,Hallowed Grounds
+15,Guy's Gyros
+15,Brew've Been Served
+15,GAStect
+15,Katerina's Cafe
+15,Frydos Autosupply n' More
+15,Chostus Hotel
+15,Ahaggo Museum
+15,Brewed Awakenings
+15,Jack's Magical Beans
+15,Hippokampos
+15,Frank's Fuel
+15,Hallowed Grounds
+15,U-Pump
+15,Cup o'Joe
+15,Ouzeri Elian
+15,Abila Zacharo
+15,Gelatogalore
+15,carly's coffee
+15,General Grocer
+15,Coffee Cameleon
+15,Shoppers' Delight
+15,Kalami Kafenion
+15,kronos capitol
+28,Jack's Magical Beans
+28,Roberts and Sons
+28,kronos capitol
+28,Kronos Mart
+5,Jack's Magical Beans
+5,Cup o'Joe
+5,GAStect
+5,Katerina's Cafe
+5,Roberts and Sons
+5,Abila Zacharo
+5,carly's coffee
+5,Ouzeri Elian
+5,Gelatogalore
+5,Octavio's Office Supplies
+5,General Grocer
+5,Kronos Mart
+5,Hippokampos
+22,Katerina's Cafe
+22,Brew've Been Served
+22,GAStect
+22,Abila Zacharo
+22,carly's coffee
+22,Kalami Kafenion
+22,Octavio's Office Supplies
+22,Gelatogalore
+22,Ouzeri Elian
+22,Guy's Gyros
+22,Hallowed Grounds
+22,Shoppers' Delight
+22,Coffee Cameleon
+22,Roberts and Sons
+22,kronos capitol
+22,Ahaggo Museum
+22,Hippokampos
+9,Bean There Done That
+9,Jack's Magical Beans
+9,Cup o'Joe
+9,GAStect
+9,Hippokampos
+9,Kalami Kafenion
+9,carly's coffee
+9,Katerina's Cafe
+9,Ouzeri Elian
+9,Gelatogalore
+9,Guy's Gyros
+9,Frydos Autosupply n' More
+9,Hallowed Grounds
+107,Abila Hospital
+107,Nationwide Refinery
+107,Frydos Autosupply n' More
+107,Stewart and Sons Fabrication
+107,GAStect
+107,Cup o'Joe
+107,Kronos Pipe and Irrigation
+107,Maximum Iron and Steel
+107,General Grocer
+107,Carlyle Chemical Inc.
+107,Katerina's Cafe
+104,Abila Airport
+104,GAStect
+105,Cup o'Joe
+105,Abila Hospital
+105,Carlyle Chemical Inc.
+105,Nationwide Refinery
+105,Katerina's Cafe
+105,GAStect
+106,Abila Airport
+106,Abila Scrapyard
+106,Hallowed Grounds
+106,Stewart and Sons Fabrication
+106,Frydos Autosupply n' More
+106,Nationwide Refinery
+106,GAStect
+106,Cup o'Joe
+106,Abila Hospital
+31,Chostus Hotel
+31,Hallowed Grounds
+31,Carlyle Chemical Inc.
+31,Abila Hospital
+31,GAStect
+31,carly's coffee
+31,Octavio's Office Supplies
+31,Abila Zacharo
+31,Katerina's Cafe
+31,Desafio Golf Course
+31,Guy's Gyros

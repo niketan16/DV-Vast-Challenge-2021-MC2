@@ -1,0 +1,299 @@
+:root {
+    --bg-color: rgb(237, 246, 249);
+    --white: #faf0e6;
+}
+
+body {
+    background-color: var(--bg-color);
+}
+
+.myContainer {
+    /* margin: 6%; */
+    width: 100%;
+    /* background-color: #f8fafb; */
+}
+
+.ringcontainer {
+    width: 50%;
+    float: right;
+    height: 1000px;
+}
+
+.link {
+    fill: none;
+
+}
+
+.link:hover {
+    stroke-opacity: .5;
+}
+
+.node rect {
+    fill-opacity: .9;
+    shape-rendering: crispEdges;
+}
+
+.node text {
+    pointer-events: none;
+    text-shadow: 0 1px 0 #fff;
+}
+
+#circular_bar_svg {
+    width: 50%;
+    height: 1000px;
+    background-color: white;
+    border: 1px solid lightgray;
+    border-radius: 3px;
+    float: left;
+}
+
+#shankey_svg {
+    width: 100%;
+    background-color: white;
+    border: 1px solid lightgray;
+    border-radius: 3px;
+    float: left;
+}
+
+/* #sanky_div {
+    width: 50%;
+    height: 800px;
+    overflow-y: scroll;
+    float: left;
+} */
+
+
+#left-shanky-div {
+    width: 19%;
+    /* height: 800px; */
+    /* overflow-y: scroll; */
+    float: left;
+    background-color: var(--bg-color);
+    border-width: 0px;
+    margin-left: 10px;
+}
+
+#right-scroll-div {
+    width: 80%;
+    height: 800px;
+    /* overflow-y: scroll; */
+    float: right;
+    background-color: var(--bg-color);
+}
+
+#left-circular-div {
+    width: 47%;
+    height: 700px;
+    /* overflow-y: scroll; */
+    float: left;
+    background-color: var(--bg-color);
+}
+
+#circular_bar_svg {
+    width: 100%;
+    height: 700px;
+    background-color: white;
+    border: 1px solid lightgray;
+    border-radius: 3px;
+    float: left;
+}
+
+
+#right-ring-div {
+    padding-top: 8px;
+    width: 52%;
+    height: 700px;
+    /* overflow-y: scroll; */
+    float: right;
+    background-color: white;
+}
+
+#ring_svg {
+    width: 100%;
+    height: 655px;
+    background-color: white;
+    position:relative; 
+    top:-12px;
+    left:-11px;
+    padding-top: 5px;
+
+}
+
+#map_div {
+    width: 100%;
+    height: 100%;
+    /* overflow-y: scroll; */
+    background-color: white;
+    padding: 15px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+#map_car_div{
+    width: 23%;
+    height: 520px;
+    float: right;
+    overflow-y: scroll;
+    display:block;
+    margin-bottom: 20px;
+}
+
+#map_svg {
+    margin-top: 20px;
+    width: 75%;
+    height: 600px;
+    background-color: white;
+    display: block;
+    float: left;
+}
+
+
+
+#map_cars {
+    width: 100%;
+    height: 1100px;
+    background-color: white;
+    display: block;
+    float: right;
+    overflow-y: scroll;
+    background-color: #f0f6f0;
+
+}
+
+#box_plot_div{
+    width: 98%;
+    height: 900px;
+    background-color: white;
+    margin: 10px;
+    padding: 8px;
+    
+
+}
+#box_plot_svg {
+    width: 100%;
+    height: 880px;
+    background-color: white;
+    
+}
+
+
+#network_div {
+    width: 100%;
+    height: 1000px;
+    background-color: white;
+    padding: 2%;
+    margin-left: 1%;
+    margin-bottom: 4%;
+    margin-top: 2%;
+}
+
+
+#network_svg {
+    width: 98%;
+    height: 960px;
+    background-color: white;
+    /* border: 1px solid lightgray; */
+    border-radius: 3px;
+   
+}
+
+#location_label {
+    float: left;
+    margin-right: 10px;
+    text-align: center;
+}
+
+#ring-drop {
+    width: 30%;
+    height: 20px;
+    float: left;
+    margin-right: 20px;
+}
+
+#dropdownloc {
+    height: 30px;
+}
+
+#dropdowncc {
+    height: 30px;
+}
+
+#panel {
+    margin: 5px;
+    padding-top: 5px;
+}
+
+@font-face {
+    font-family: "Voltaire-Frangela";
+    src: url("./../font/Voltaire-Frangela.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "bariol";
+    src: url("./../font/bariol_regular-webfont.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Andiela-Sathony";
+    src: url("./../font/Andiela-Sathony.ttf") format("truetype");
+}
+
+#project_title{
+    font-family: 'Libre Baskerville';
+}
+
+#project_team_names{
+    font-family: 'Ysabeau';
+}
+
+#play{
+    width:200px;
+    background-color: #9fb7a0;
+    border: none;
+    margin-left: 30px;
+}
+
+.date{
+    width:150px;
+    margin-left: 5px;
+
+}
+
+#dd{
+    
+    margin-bottom: 10px;
+}   
+
+table{
+    padding: 4%;
+    /* margin-top:1000px; */
+    border-radius: 10px;
+}
+
+#more_info{
+    margin-left: 10%;
+    margin-bottom: 5%;
+    padding: 10%;
+}
+
+tr{
+    border-radius: 10px;
+    background-color: white;
+}
+
+tbody{
+    border-radius: 10px;
+}
+
+
+td{
+    text-align: center
+}
+
+th{
+    background-color: #2f8332;
+}
+h6{
+    padding-left:30px;
+    padding-right:30px;
+}

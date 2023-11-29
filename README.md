@@ -1,5 +1,7 @@
 # Project: VAST Challenge 2021 MC-2
 
+Check it out [here](https://niketan16.github.io/DV-Vast-Challenge-2021-MC2/)
+
 ### Team Members:
 - Person 1: Tirth Hihoriya - thihoriy@asu.edu
 - Person 2: Nihar Thakkar - njthakkar@asu.edu

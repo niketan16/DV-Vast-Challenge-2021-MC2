@@ -18,7 +18,3 @@
 
 - Open Firefox browser window and go to "localhost:8000".
 
-### [Project Report](https://docs.google.com/document/d/1_R_ygCEY0ZkCn-aUuypwIZvURobctY-NOcmI_ee9_N0/edit?usp=sharing)
-
-### [Video]()
-
